@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-v4-25.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/26815441c718ea5f2cd7a95fe1cd426d/res" />
+      <root url="jar://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/26815441c718ea5f2cd7a95fe1cd426d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

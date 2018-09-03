@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.drawerlayout:drawerlayout-1.0.0-rc02">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc02.aar/17c42f386d14e2541fa2e5e20e21bb34/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc02.aar/17c42f386d14e2541fa2e5e20e21bb34/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/modules-2/files-2.1/androidx.drawerlayout/drawerlayout/1.0.0-rc02/579d463100a2f5871aa012de9190c5c85285ca6e/drawerlayout-1.0.0-rc02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

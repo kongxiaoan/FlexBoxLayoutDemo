@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.legacy:legacy-support-core-utils-1.0.0-rc02">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc02.aar/b1c6fa0b3bd5de1a74219989199d648a/res" />
+      <root url="jar://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc02.aar/b1c6fa0b3bd5de1a74219989199d648a/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/modules-2/files-2.1/androidx.legacy/legacy-support-core-utils/1.0.0-rc02/e15d47e17d665f6d7faee67257d27d91d79dad24/legacy-support-core-utils-1.0.0-rc02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

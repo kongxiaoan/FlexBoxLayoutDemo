@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core-1.0.0-rc02">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/transforms-1/files-1.1/core-1.0.0-rc02.aar/2377f508e4a0d8fdd18747b4eaeb9dcc/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/transforms-1/files-1.1/core-1.0.0-rc02.aar/2377f508e4a0d8fdd18747b4eaeb9dcc/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/modules-2/files-2.1/androidx.core/core/1.0.0-rc02/8d831f6070e5a313209229401239c9f5626b743/core-1.0.0-rc02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

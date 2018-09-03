@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.print:print-1.0.0-rc02">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/transforms-1/files-1.1/print-1.0.0-rc02.aar/c7dbbfa34b623bec6f5b472aa6ef27c7/res" />
+      <root url="jar://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/transforms-1/files-1.1/print-1.0.0-rc02.aar/c7dbbfa34b623bec6f5b472aa6ef27c7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Kerust/gradle-4.9/caches/modules-2/files-2.1/androidx.print/print/1.0.0-rc02/27fc373e01001cdf54da0aa7a41c4bdfa6534e20/print-1.0.0-rc02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
